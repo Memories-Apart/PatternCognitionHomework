@@ -1,2 +1,2 @@
 # PatternCognitionHomework
-## the first homework: Nonlinear Fitting
+## Homework 1: Nonlinear Fitting
